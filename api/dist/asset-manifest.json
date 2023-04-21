@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d64699b.chunk.css",
+    "main.js": "/static/js/main.1589f7d8.chunk.js",
+    "main.js.map": "/static/js/main.1589f7d8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/css/2.e865a44c.chunk.css": "/static/css/2.e865a44c.chunk.css",
+    "static/js/2.185a4160.chunk.js": "/static/js/2.185a4160.chunk.js",
+    "static/js/2.185a4160.chunk.js.map": "/static/js/2.185a4160.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e865a44c.chunk.css.map": "/static/css/2.e865a44c.chunk.css.map",
+    "static/css/main.8d64699b.chunk.css.map": "/static/css/main.8d64699b.chunk.css.map",
+    "static/js/2.185a4160.chunk.js.LICENSE.txt": "/static/js/2.185a4160.chunk.js.LICENSE.txt",
+    "static/media/1.ecd8b1f5.webp": "/static/media/1.ecd8b1f5.webp",
+    "static/media/2.d38444c0.webp": "/static/media/2.d38444c0.webp",
+    "static/media/babywear.587f9b0c.webp": "/static/media/babywear.587f9b0c.webp",
+    "static/media/boywear.81aa4cdd.webp": "/static/media/boywear.81aa4cdd.webp",
+    "static/media/cart-img.bc81bf1f.webp": "/static/media/cart-img.bc81bf1f.webp",
+    "static/media/catbaby.13371c47.webp": "/static/media/catbaby.13371c47.webp",
+    "static/media/catboy.04b7a595.webp": "/static/media/catboy.04b7a595.webp",
+    "static/media/catgirl.83f50125.webp": "/static/media/catgirl.83f50125.webp",
+    "static/media/catmen.41048a70.webp": "/static/media/catmen.41048a70.webp",
+    "static/media/catwomen.1adf9e3d.webp": "/static/media/catwomen.1adf9e3d.webp",
+    "static/media/girlwear.7e8d1cbf.webp": "/static/media/girlwear.7e8d1cbf.webp",
+    "static/media/manwear.e491d612.webp": "/static/media/manwear.e491d612.webp",
+    "static/media/womenwear.80589144.webp": "/static/media/womenwear.80589144.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/css/2.e865a44c.chunk.css",
+    "static/js/2.185a4160.chunk.js",
+    "static/css/main.8d64699b.chunk.css",
+    "static/js/main.1589f7d8.chunk.js"
+  ]
+}
